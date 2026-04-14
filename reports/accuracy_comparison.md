@@ -20,9 +20,9 @@ This report compares the two prediction approaches implemented in the Heart Dise
 ## 2. Decision Tree — Performance Metrics
 
 **Best Hyperparameters (GridSearchCV, 5-fold CV):**
-- `max_depth = 4`
-- `min_samples_split = 30`
-- `min_samples_leaf = 10`
+- `max_depth = 3`
+- `min_samples_split = 10`
+- `min_samples_leaf = 20`
 - `class_weight = balanced`
 
 **Test Set Results (80/20 split, 61 test samples):**
