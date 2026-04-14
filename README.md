@@ -1,4 +1,4 @@
-# 🫀 Heart Disease Detection System
+#  🩵 Heart Disease Detection System
 
 A hybrid AI system for heart disease risk prediction combining a **Rule-Based Expert System** (Experta) and a **Machine Learning Model** (Decision Tree Classifier).
 
