@@ -118,7 +118,7 @@ Uses a knowledge base of **12 medical rules** to assess risk:
 - Score ≥ 7 → 🔴 HIGH RISK
 
 ### Decision Tree Classifier (Scikit-Learn)
-- **Best Hyperparameters:** `max_depth=4`, `min_samples_split=30`, `min_samples_leaf=10`, `class_weight=balanced`
+- **Best Hyperparameters:** `max_depth=3`, `min_samples_split=10`, `min_samples_leaf=20`, `class_weight=balanced`
 - **Test Accuracy:** 80%
 - **F1-Score (Disease class):** 0.84
 
